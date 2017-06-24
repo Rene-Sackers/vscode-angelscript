@@ -4,6 +4,12 @@
 
 This extension adds basic code highlighting and suggestion for [AngelScript](http://www.angelcode.com/angelscript/), based on the [tmLanguage template for Subblime](https://github.com/wronex/sublime-angelscript).
 
+## Features
+
+Currently this extension only provides colorization.
+
+![Colorization example](http://i.imgur.com/G2RFQ1R.png)
+
 ## Contribution/issues
 
 Contributions to the extension can be made [here](https://github.com/Rene-Sackers/vscode-angelscript).  
