@@ -8,7 +8,7 @@ This extension adds basic code highlighting and suggestion for [AngelScript](htt
 
 Currently this extension only provides colorization.
 
-![Colorization example](http://i.imgur.com/G2RFQ1R.png)
+![Colorization example](https://i.imgur.com/G2RFQ1R.png)
 
 ## Contribution/issues
 
