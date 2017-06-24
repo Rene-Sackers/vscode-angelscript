@@ -19,4 +19,8 @@ Contributions to the language template can be made [here](https://github.com/wro
 
 ### 1.0.0
 
-Initial release.
+* Initial release.
+
+### 1.0.1
+
+* Updated readme

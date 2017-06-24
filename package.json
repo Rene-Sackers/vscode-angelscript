@@ -2,7 +2,7 @@
     "name": "angelscript",
     "displayName": "AngelScript",
     "description": "Adds AngelScript support",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "renesackers",
     "engines": {
         "vscode": "^1.13.0"
