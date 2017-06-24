@@ -1,0 +1,27 @@
+{
+    "name": "angelscript",
+    "displayName": "AngelScript",
+    "description": "Adds AngelScript support",
+    "version": "1.0.0",
+    "publisher": "renesackers",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "icon": "images/as-icon.png",
+    "contributes": {
+        "languages": [{
+            "id": "angelscript",
+            "aliases": ["AngelScript", "angelscript"],
+            "extensions": [".as"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "angelscript",
+            "scopeName": "source.angelscript",
+            "path": "./syntaxes/sublime-angelscript/AngelScript.tmLanguage"
+        }]
+    }
+}

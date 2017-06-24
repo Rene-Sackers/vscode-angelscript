@@ -1,0 +1,3 @@
+[submodule "syntaxes/sublime-angelscript"]
+	path = syntaxes/sublime-angelscript
+	url = https://github.com/wronex/sublime-angelscript.git
