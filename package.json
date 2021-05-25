@@ -3,7 +3,7 @@
     "displayName": "AngelScript",
     "description": "Adds AngelScript support",
     "repository": "github:Rene-Sackers/vscode-angelscript",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "renesackers",
     "engines": {
         "vscode": "^1.13.0"
