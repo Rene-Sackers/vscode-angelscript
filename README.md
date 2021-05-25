@@ -2,7 +2,7 @@
 
 ## Summary
 
-This extension adds basic code highlighting and suggestion for [AngelScript](http://www.angelcode.com/angelscript/), based on the [tmLanguage template for Subblime](https://github.com/wronex/sublime-angelscript).
+This extension adds basic code highlighting and suggestion for [AngelScript](http://www.angelcode.com/angelscript/), based on the [tmLanguage template for Sublime](https://github.com/wronex/sublime-angelscript).
 
 ## Features
 
@@ -24,3 +24,8 @@ Contributions to the language template can be made [here](https://github.com/wro
 ### 1.0.1
 
 * Updated readme
+
+### 1.0.2
+
+* Updated syntax
+* Added support to angled brackets
